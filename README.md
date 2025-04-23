@@ -52,7 +52,7 @@ backend/
 
 ```bash
 git clone https://github.com/zwezdica/task_master_backend.git
-cd taskmaster-backend
+cd task_master_backend
 npm install
 ```
 
@@ -61,7 +61,7 @@ npm install
 Create .env file:
 
 ```env
-MONGO_URI=mongodb://localhost:27017/taskmaster
+MONGO_URI=mongodb://localhost:27017/to_do
 JWT_SECRET=your_strong_secret_here
 PORT=5000
 ```
