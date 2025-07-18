@@ -63,7 +63,7 @@ Create .env file:
 ```env
 MONGO_URI=mongodb://localhost:27017/to_do
 JWT_SECRET=your_strong_secret_here
-PORT=5000
+PORT=3000
 ```
 
 ## 🏃 Running the Server
